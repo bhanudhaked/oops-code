@@ -2,7 +2,7 @@
 #include <string>
 using namespace std;
 
-// Define the Passenger class
+
 class Passenger {
 private:
     string name;
